@@ -1,16 +1,12 @@
-### Hi there 👋
+<!-- <p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
+</p> -->
 
-<!--
-**devbn3li/devbn3li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:devbn3li"></a>
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi 👋, I'm Bn 3li</h1>
+<h3 align="center">A Web Developer from Egypt</h3>
