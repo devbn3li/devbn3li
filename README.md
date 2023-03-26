@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:devbn3li"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="right" width="100"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Bn 3li</h1>
