@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Mohamed Ali</h1>
-<h3 align="center">A Software Engineer from Egypt</h3>
+<h3 align="center">Software Engineer from Egypt</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
