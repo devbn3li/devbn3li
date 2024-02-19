@@ -2,6 +2,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
 </p> -->
+  [![committers.top badge](https://user-badge.committers.top/egypt/devbn3li.svg)](https://user-badge.committers.top/egypt/devbn3li)
 **You are the visitor number:**
 
 <p>
@@ -24,5 +25,5 @@ I'm currently learning:
   
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=devbn3li&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-  [![committers.top badge](https://user-badge.committers.top/egypt/devbn3li.svg)](https://user-badge.committers.top/egypt/devbn3li)
+
 
