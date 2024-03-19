@@ -1,7 +1,3 @@
-<!-- <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/itgoyo/count.svg" />
-</p> -->
   [![committers.top badge](https://user-badge.committers.top/egypt/devbn3li.svg)](https://user-badge.committers.top/egypt/devbn3li)
   <br><br>
 **You are the visitor number:**
