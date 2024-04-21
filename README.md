@@ -8,7 +8,11 @@
 </p>
 
 <h1 align="center">Hi, I'm Mohamed Ali</h1>
-<h3 align="center">A Software Engineer from Egypt</h3>
+<h3 align="left">Software Engineer from Egypt</h3>
+<img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=55px align="right"/>
+  
+<p>🟡Beta Microsoft Learn Student Ambassador</p>
+<p>🟡ALX Fellowship Ambassador</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
