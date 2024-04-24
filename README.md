@@ -23,7 +23,7 @@
 <h3>My Tools:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/devbn3li/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux,bash,nginx,git,html,css,js,react,tailwind,vercel,py,flask,c,vim,emacs,vscode,discord" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,nginx,git,html,css,js,react,postman,tailwind,vercel,py,flask,c,vim,emacs,vscode,discord" />
   </a>
 </p>
   
