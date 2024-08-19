@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Mohamed Ali</h1>
-<h3 align="left">Frontend Engineer from Egypt</h3>
+<h3 align="center">Frontend Engineer from Egypt</h3>
 <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=150px align="right"/>
   
 <p>🟡Frontend Engineer at Dragons Bootcamp</p>
