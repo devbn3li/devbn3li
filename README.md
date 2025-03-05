@@ -11,7 +11,7 @@
 <h3 align="center">Frontend Engineer from Egypt</h3>
 <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=150px align="right"/>
   
-<p>🟡Frontend Engineer at Dragons</p>
+<p>🟡Frontend Engineer</p>
 <p>🟡Beta Microsoft Learn Student Ambassador</p>
 <p>🟡ALX Fellowship Ambassador</p>
 
