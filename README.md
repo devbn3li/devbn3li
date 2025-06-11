@@ -27,5 +27,4 @@
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,powershell,bash,nginx,git,github,githubactions,md,html,css,js,ts,react,regex,redux,docker,postman,tailwind,vercel,vite,py,flask,c,vim,emacs,vscode,pycharm,discord,bots,stackoverflow,devto,codepen,figma,azure,gcp,gmail" />
   </a>
 </p>
-  
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=devbn3li&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
