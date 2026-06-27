@@ -9,12 +9,7 @@
 
 <h1 align="center">Hi, I'm Mohamed Ali</h1>
 <h3 align="center">Frontend Engineer from Egypt</h3>
-<img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=150px align="right"/>
   
-<p>🟡Frontend Engineer</p>
-<p>🟡Gold Microsoft Ambassador</p>
-<p>🟡ALX Fellowship Ambassador</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/devbn3lii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbn3li" height="30" width="40" /></a>
